@@ -18,13 +18,22 @@ Exploratory Data Analysis was performed on the data. Descriptive analysis alongs
 
 ## Results
 The graph below represents distribution of the annual releases of Movies
+
 ![image](https://user-images.githubusercontent.com/104424533/169627960-90f01a49-2919-4681-af9b-4b2e786fd64b.png)
+
 This graph represents movie distribution by genres
+
 ![image](https://user-images.githubusercontent.com/104424533/169628028-b6ea53cc-a4df-4b09-abc5-29a9c0ae6df1.png)
+
 The following graph represents the genre with the most movies
+
 ![image](https://user-images.githubusercontent.com/104424533/169628108-4618bfb8-c44f-403f-be96-3813cf8b7910.png)
+
 Below is the graph representing the genres with the most votes in descending order
+
 ![image](https://user-images.githubusercontent.com/104424533/169628156-58b39305-59ce-4c09-b732-2f92c550ad29.png)
+
 Finally, this graph shows the genres that are generating the highest revenues in descending oder as well
+
 ![image](https://user-images.githubusercontent.com/104424533/169628195-a84ea4d5-b008-4c69-8199-8d71522d9e9f.png)
 
