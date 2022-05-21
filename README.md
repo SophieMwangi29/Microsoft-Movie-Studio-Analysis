@@ -1,11 +1,30 @@
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![image](https://user-images.githubusercontent.com/104424533/169628408-c5abb66e-e633-47f6-874f-19d372cf097c.png)
 
 # Microsoft-Movie-Studio-Analysis
 
 Author: Cynthia Sophie Wangui Mwangi
-##Overview
+## Overview
 This project analyses the movie details from data provided by IDMB with the aim of deriving insights on the best rated, most liked and most profitable movie genres.
 Three datasets were provided. They were then successfully merged. Descriptive Analysis of the recordings have been done and they show that Drama filled movies are most liked and generate the most revenue. Microsoft can hence use this analysis to understand which genre of movies they can best invest in.
 
-![alt text](http://depositphotos.com/128814626/stock-illustration-cinema-night-home-movie-watching.html/to/img.png)
+![image](https://user-images.githubusercontent.com/104424533/169628450-16a7972b-5bb4-4569-a265-a8e016d48c80.png)
+
+## Data
+Three datasets were provided. One cointained the titles of the movies and the number of votes each movie had. The second dataset contained the ratings of the movies while the final dataset contained the revenue generated from the movies. The datasets were merged using common column names. The first two had unique movie IDs while the second and third datasets had the common column "title". 
+
+## Methods
+Exploratory Data Analysis was performed on the data. Descriptive analysis alongside graphic representations of the nature of this data was done. This produced desired insights on the best genres of Movies with the best return on investments.
+
+## Results
+The graph below represents distribution of the annual releases of Movies
+![image](https://user-images.githubusercontent.com/104424533/169627960-90f01a49-2919-4681-af9b-4b2e786fd64b.png)
+This graph represents movie distribution by genres
+![image](https://user-images.githubusercontent.com/104424533/169628028-b6ea53cc-a4df-4b09-abc5-29a9c0ae6df1.png)
+The following graph represents the genre with the most movies
+![image](https://user-images.githubusercontent.com/104424533/169628108-4618bfb8-c44f-403f-be96-3813cf8b7910.png)
+Below is the graph representing the genres with the most votes in descending order
+![image](https://user-images.githubusercontent.com/104424533/169628156-58b39305-59ce-4c09-b732-2f92c550ad29.png)
+Finally, this graph shows the genres that are generating the highest revenues in descending oder as well
+![image](https://user-images.githubusercontent.com/104424533/169628195-a84ea4d5-b008-4c69-8199-8d71522d9e9f.png)
+
