@@ -38,10 +38,7 @@ Finally, this graph shows the genres that are generating the highest revenues in
 ![image](https://user-images.githubusercontent.com/104424533/169628195-a84ea4d5-b008-4c69-8199-8d71522d9e9f.png)
 
 # Conclusion
-This analysis leads to three recommendations for the success of Microsoft Movie Venture;
-- ** The team should ensure they venture into Drama Movies. These are more liked by viewers and generate the most income 
-- ** From the analysis, it can be concluded that people enjoy movies that are around one and a half to two hours. This then means that they should focus on making movies that are within this length.
-- ** Most movies that already exist are Drama Movies. This thus means there will be a lot of competition. To make them more relevant in the movie industry, they should try incorporate comedy in their Drama movies, as comedy was rated the second best genre.
+x
 
 # Next Steps
 - ** Further analysis can be done to derive more insights. For instance, analysis on the actors and actresses that are rated highly or liked by the viewers. This will help them understand the type of actors to recruit when making the movie.
